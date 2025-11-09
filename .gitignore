@@ -1,0 +1,13 @@
+﻿# Virtual env
+.venv/
+
+# Python caches & build artifacts
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.dist-info/
+.pytest_cache/
+
+# Editor files
+.vscode/
+*.swp
